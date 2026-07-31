@@ -2,4 +2,7 @@
 x64/
 Debug/
 Release/
+*.sln
+*.vcxproj
+*.vcxproj.filters
 *.user
