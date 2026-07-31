@@ -5,7 +5,7 @@ A modern implementation of the classic **Tetris** game developed in **C++** usin
 ▶️ Full gameplay video:  🔗 [Portfolio : https://babderraouf.github.io/portfolio/](https://babderraouf.github.io/portfolio/)
 
 # Screenshot
-![Tetris Game Screenshot](assets/screenshots/CTetris2DGameraylib.gif)
+![Tetris Game Screenshot](assets/screenshoots/CTetris2DGameraylib.gif)
 ## Features
 
 * Classic Tetris gameplay
